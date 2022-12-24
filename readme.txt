@@ -26,12 +26,16 @@ Description
 
 = Does this theme support any plugins? =
 
-Geniuscourses includes support for WooCommerce and for Infinite Scroll in Jetpack.
+Car Brands includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
-= 1.0 - May 12 2015 =
+= 1.0 - December 24 2022 =
 * Initial release
+
+
+== Demo == 
+to see demo please check that link : https://aminkhaled.github.io/Royal-Car-Template/
 
 == Credits ==
 
